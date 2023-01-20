@@ -12,7 +12,7 @@
 
 ### Demo Screeshots
 
-![EduCare Desktop Demo](./readme-images/educare.svg "Desktop Demo")
+![EduCare Desktop Demo](./readme-images/educare.webp "Desktop Demo")
 
 
 
